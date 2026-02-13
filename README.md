@@ -1,4 +1,4 @@
-👋 Hi, I’m Ghazala Mahmood
+ Hi, I’m Ghazala Mahmood
 
 🎓 Bachelor’s in Information Technology
 💻 Python & Machine Learning Developer
@@ -7,7 +7,7 @@
 
 
 
-🚀 About Me
+## About Me
 
 I am an IT graduate with a strong foundation in programming and application development. After a career break, I am actively transitioning back into the tech industry by building hands-on projects in:
 	•	Machine Learning
@@ -20,7 +20,7 @@ I am passionate about building practical, real-world solutions using data-driven
 
 
 
-🧠 Current Focus
+## Current Focus
 	•	Building end-to-end Machine Learning projects (classification & clustering)
 	•	Strengthening understanding of evaluation metrics (Precision, Recall, F1-score, Confusion Matrix)
 	•	Preparing for CompTIA Security+ certification
@@ -29,7 +29,7 @@ I am passionate about building practical, real-world solutions using data-driven
 
 
 
-📊 Machine Learning Projects
+## Machine Learning Projects
 	•	🔹 Risk Rating Analysis (Logistic Regression)
 	•	🔹 Disease Diagnosis Classification
 	•	🔹 K-Means Clustering (Iris Dataset)
@@ -38,7 +38,7 @@ I am passionate about building practical, real-world solutions using data-driven
 
 
 
-🛠️ Tech Stack
+## Tech Stack
 
 Languages & Tools
 	•	Python
@@ -61,11 +61,11 @@ Cybersecurity
 	•	CompTIA Security+ (In Progress)
 
 
-🎯 Career Goal
+## Career Goal
 
 To secure an entry-level role in Machine Learning, Python Development, or Cybersecurity where I can contribute, grow technically, and build impactful solutions.
 
-📫 Connect With Me
+## Connect With Me
 	•	LinkedIn: https://www.linkedin.com/in/ghazala-mahmood-rabbani-850874249/
 	•	Email: rgaala66@gmail.com
 
