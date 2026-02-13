@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am an IT graduate with a strong foundation in programming and application development. After a career break, I am actively transitioning back into the tech industry by building hands-on projects in:
+I am an IT graduate with a strong foundation in programming and application development. I am actively transitioning back into the tech industry by building hands-on projects in:
 	•	Machine Learning
 	•	Data Science
 	•	Python Development
