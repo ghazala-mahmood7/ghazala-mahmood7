@@ -66,6 +66,6 @@ Cybersecurity
 To secure an entry-level role in Machine Learning, Python Development, or Cybersecurity where I can contribute, grow technically, and build impactful solutions.
 
 ## Connect With Me
-	•	LinkedIn: https://www.linkedin.com/in/ghazala-mahmood-rabbani-850874249/
+	•	LinkedIn: https://www.linkedin.com/in/ghazala-mahmood-850874249/
 	•	Email: rgaala66@gmail.com
 
