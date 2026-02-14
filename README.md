@@ -23,7 +23,6 @@ I am passionate about building practical, real-world solutions using data-driven
 ## Current Focus
 	•	Building end-to-end Machine Learning projects (classification & clustering)
 	•	Strengthening understanding of evaluation metrics (Precision, Recall, F1-score, Confusion Matrix)
-	•	Preparing for CompTIA Security+ certification
 	•	Expanding into secure software development practices
 	•	Learning React, Laravel, and Tailwind for full-stack development
 
